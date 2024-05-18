@@ -1,0 +1,5 @@
+SpeechRecognition  #speech recognition
+pyttsx3   #text-to-speech conversion library
+PyAudio   #audio conversion Library 
+# wikipedia #pre-installed
+#webbrowser #pre-installed
