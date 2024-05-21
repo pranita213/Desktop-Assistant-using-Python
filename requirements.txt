@@ -1,6 +1,10 @@
 SpeechRecognition  #speech recognition
 pyttsx3   #text-to-speech conversion library
 PyAudio   #audio conversion Library 
-# wikipedia #pre-installed
+wikipedia 
 #webbrowser #pre-installed
 #Python3.8
+streamlit
+pipwin 
+gTTS
+google-generativeai 
